@@ -10,4 +10,4 @@ A python GUI application that computes the first and follow of non-terminals in 
 - PyQt5
 
 ## Screengrabs
-![Input Window](https://github.com/thegamingbot/Left-Recursion-Elimination/blob/main/Screenshots/Input.png)
+![](https://github.com/thegamingbot/First-and-Follow/blob/main/Screenshots/Screenshot%20from%202020-12-07%2023-35-50.png)
